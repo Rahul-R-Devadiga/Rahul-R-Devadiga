@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AR/VR/Metaverse<br>👯 I’m looking to collaborate on AR/VR/Metaverse related projects<br>🤝 I’m looking for help with developing a gun game in VR can also support multiplayer mode<br>🌱 I’m currently learning Master in Computer Application<br>💬 Ask me about AR/VR developement using Unity<br>⚡ Fun fact I'm keen to learn new things which makes me stay motivated to code and develop new things
+🔭 I’m currently working on AR/VR/Metaverse<br>👯 I’m looking to collaborate on AR/VR/Metaverse related projects and in the Full Stack Projects<br>🤝 I’m looking for help with developing a gun game in VR can also support multiplayer mode<br>🌱 I’m currently learning Master in Computer Application<br>💬 Ask me about AR/VR developement using Unity<br>⚡ Fun fact I'm keen to learn new things which makes me stay motivated to code and develop new things
 
 
 ## 🌐 Socials:
